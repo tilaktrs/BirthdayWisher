@@ -4,8 +4,8 @@ import smtplib
 import os
 os.chdir(r"E:\Visual Studio Project\BirthdayWish project")
 
-GMAIL_ID='raotilakrajsingh@gmail.com'
-GMAIL_PSWD = '19studdisssstudd98'
+GMAIL_ID='...........@gmail.com'
+GMAIL_PSWD = '....................'
 
 def sendEmail(to,sub,msg):
     print(f"Email to {to} sent with  subject:{sub} and messsage {msg}")# it is a way to format your string that is more readable and fast. The f or F in front of strings tell Python to look at the values inside {} and substitute them with the variables values if exists.
