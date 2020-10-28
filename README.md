@@ -1,6 +1,6 @@
 # @utomatic_Birthday_Wisher
 
-#### It automates birthday wishing task by finding out whose birthday is today from the linked Database.
+#### It automates birthday wishing task by finding out whose birthday is today from the linked Database. It fetches birthday date from google sheets and wishes them on their birthdays through Gmail.
 
 ### SCREENSHOTS
 ![Screenshot (233)](https://user-images.githubusercontent.com/50310860/93849167-19d16200-fcc9-11ea-93bd-4584cd91c2cf.png)
